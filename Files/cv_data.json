@@ -1,0 +1,392 @@
+{
+    "1": {
+        "ID": 1,
+        "name": "Nad\u00edn Friedberger",
+        "contact": "Phone number: 555-555-5555, Email address: hello@kickresume.com",
+        "address": "Pasadena, CA, United States",
+        "education": [
+            {
+                "institution": "California Institute of Technology",
+                "degree": "Computer Science",
+                "years": "09/2013 - 05/2017"
+            },
+            {
+                "institution": "Brunchman High School",
+                "degree": "Gymnasium",
+                "years": "09/2009 - 05/2013"
+            }
+        ],
+        "total_experience": 3,
+        "experience": [
+            {
+                "company": "LUT Digital, Inc.",
+                "job_title": "Python Developer",
+                "description": "Developed web application back end components and facilitated client communication to identify needs and goals. Improved data protection and security measures, creating innovative user information solutions. Maintained large databases, configured servers, and collaborated with colleagues to reduce software maintenance expenses - achieved a 15% cost reduction within one year. Trained and supervised new employees, offering technical support to clients and coworkers. Recognized as the employee of the year for consistently meeting and exceeding all assigned goals and objectives.",
+                "work_duration": "06/2017 - 06/2020",
+                "total_years": 3
+            }
+        ],
+        "skills": [
+            "Python",
+            "HTML",
+            "Javascript",
+            "Selenium",
+            "TestComplete",
+            "Appium",
+            "Prioritization",
+            "Analytical",
+            "Communication",
+            "Critical Thinking",
+            "Determination",
+            "Detail-oriented",
+            "Problem-solving",
+            "Teamwork"
+        ],
+        "summary": "Dynamic certified Python developer with 3 years of robust experience, demonstrating exceptional analytical and critical thinking skills. Recognized as employee of the year for proactive problem-solving, strong work ethic, and adeptness at thriving in high-pressure, deadline-oriented team settings.",
+        "projects": []
+    },
+    "2": {
+        "ID": 2,
+        "name": "Alexander Taylor",
+        "contact": "help@enhancv.com, linkedin.com",
+        "address": "San Antonio, Texas",
+        "education": [
+            {
+                "institution": "University of Texas",
+                "degree": "Master of Science in Computer Science",
+                "years": "2016-2018"
+            },
+            {
+                "institution": "Texas Tech University",
+                "degree": "Bachelor of Science in Computer Science",
+                "years": "2012-2016"
+            }
+        ],
+        "total_experience": 4,
+        "experience": [
+            {
+                "company": "Cognizant",
+                "job_title": "Junior Python Developer",
+                "description": "Worked on HTML, Javascript and Python development projects, with a focus on data fetching and cleansing. Developed Python scripts for web crawling and web scraping resulting in 30% increased efficiency. Assisted in building APIs on top of cleaned data sets, which helped to automate data flow from multiple sources. Worked on storing extracted data into sol/no sql data store.",
+                "work_duration": "2019-2020",
+                "total_years": 1
+            },
+            {
+                "company": "Accenture",
+                "job_title": "Web Developer",
+                "description": "Worked on web development projects using HTML and Javascript. Gained Python skills on the job. Created dynamic and interactive web pages which improved customer interaction by 40%. Developed complex Javascript functions to improve web page efficiency. Automated HTML and CSS tasks by implementing preprocessor scripting language, decreasing production time by 25%.",
+                "work_duration": "2018-2019",
+                "total_years": 1
+            }
+        ],
+        "skills": [
+            "Python",
+            "HTML",
+            "Javascript",
+            "Regular Expressions",
+            "Web Scraping",
+            "Crawling",
+            "SQL/NoSQL",
+            "Data Cleansing",
+            "API Development"
+        ],
+        "summary": "Enthusiastic Python developer with over two years\u2019 experience in HTML, Javascript, and web development. Skilled in fetching and cleaning data, building APIs and web crawling. Seeking a challenging opportunity to utilize these skills and grow further in the field of data science.",
+        "projects": []
+    },
+    "3": {
+        "ID": 3,
+        "name": "Violet Rodriguez",
+        "contact": "help@enhancv.com, linkedin.com",
+        "address": "Charlotte, North Carolina",
+        "education": [
+            {
+                "institution": "University of North Carolina at Charlotte",
+                "degree": "Master's degree in Computer Science",
+                "years": "2012-2014"
+            },
+            {
+                "institution": "North Carolina State University",
+                "degree": "Bachelor's degree in Computer Engineering",
+                "years": "2008-2012"
+            }
+        ],
+        "total_experience": 7,
+        "experience": [
+            {
+                "company": "IBM",
+                "job_title": "Software Developer",
+                "description": "Senior level Python developer working on diverse and challenging projects developed an efficient transaction module, reducing processing time by 25% collaboratively contributed to the development of a new predictive analysis tool, improving sales forecast accuracy by 40% revamped the entire database system resulting in 30% improvement in functionality and efficiency",
+                "work_duration": "2018-2021",
+                "total_years": 3
+            },
+            {
+                "company": "Oracle",
+                "job_title": "Python Developer",
+                "description": "Worked on backend infrastructure and API deployment integrated 10+ data sources into single information management system successfully built 15+ server APIs for enhanced mobile application communication initiated the shift towards microservice architecture, ensuring 99% uptime",
+                "work_duration": "2016-2018",
+                "total_years": 2
+            },
+            {
+                "company": "Cisco Systems",
+                "job_title": "Junior Software Developer",
+                "description": "Worked on front-end and back-end development tasks helped prioritize and implement 50+ client feature requests within the set deadline contributed to redesigning user-facing elements leading to 15% increase in user engagement developed 5 new back-end components streamlining system operations",
+                "work_duration": "2014-2016",
+                "total_years": 2
+            }
+        ],
+        "skills": [
+            "Python",
+            "Django",
+            "Flask",
+            "Pyramid",
+            "Multi-process Architecture",
+            "Server-side Logic",
+            "Database Integration",
+            "API Building",
+            "Testing Tools",
+            "Microservice Architecture"
+        ],
+        "summary": "With over 7 years of experience as a Python developer and proficiency in related frameworks, I am enthusiastic about crafting efficient solutions. My database redesign project improved efficiency by 30% and I brought a new predictive analysis tool to life with a sales forecast improvement of up to 40%.",
+        "projects": []
+    },
+    "4": {
+        "ID": 4,
+        "name": "Elijah Brown",
+        "contact": "+1-(234)-555-1234, help@enhancv.com, linkedin.com",
+        "address": "Los Angeles, California",
+        "education": [
+            {
+                "institution": "University of Southern California",
+                "degree": "Master of Science in Computer Science",
+                "years": "01/2009 - 01/2011"
+            },
+            {
+                "institution": "California State University, Northridge",
+                "degree": "Bachelor of Science in Software Engineering",
+                "years": "01/2005 - 01/2009"
+            }
+        ],
+        "total_experience": 12,
+        "experience": [
+            {
+                "company": "Dropbox",
+                "job_title": "Lead Python Developer",
+                "description": "Directed a team of 10 Python developers, increasing project delivery efficiency by 15% through focused leadership and agile methodologies. Designed scalable web applications using microservice architecture, contributing to a 20% growth in user engagement within the first year. Deployed applications to AWS environments, optimizing cloud resources and reducing monthly expenditures by 10%. Instituted a mentorship program that improved junior developer retention rates by 30% over two years. Spearheaded the creation of modular, reusable code libraries resulting in faster development cycle times by 25%. Fostered communication between cross-functional teams, enhancing project clarity and coordination, leading to a 10% decrease in delivery time.",
+                "work_duration": "02/2018 - Present",
+                "total_years": 5
+            },
+            {
+                "company": "Lyft",
+                "job_title": "Senior Python Developer",
+                "description": "Led the development of a high-availability API with Flask, handling over 5 million requests per day. Designed and implemented complex database schemas in PostgreSQL, enhancing data accessibility and reducing retrieval times by 30%. Collaborated with front-end teams to integrate APIs into the system architecture, delivering seamless user experiences. Reduced code-related issues by 20% through comprehensive code reviews and testing practices. Mentored junior developers, resulting in a 50% increase in the team\u2019s overall productivity within one year.",
+                "work_duration": "06/2014 - 01/2018",
+                "total_years": 3
+            },
+            {
+                "company": "Square",
+                "job_title": "Python Developer",
+                "description": "Developed and maintained scalable web applications utilizing Django, increasing system reliability by 40%. Optimized existing codebase, improving application performance and reducing loading times by 15%. Integrated third-party services, extending application functionalities and enhancing user engagement. Contributed to project planning and decision-making, helping achieve a 90% on-time delivery rate for projects.",
+                "work_duration": "05/2011 - 05/2014",
+                "total_years": 3
+            }
+        ],
+        "skills": [
+            "Python",
+            "Django",
+            "AWS",
+            "Team Management",
+            "Microservices",
+            "PostgreSQL"
+        ],
+        "summary": "Seasoned Python developer with 12+ years experience and a knack for innovative web solutions. Expertise in Python, AWS, and team management contributed to reducing costs by 20%. Eager to lead your skilled development team in crafting scalable, robust applications.",
+        "projects": [
+            {
+                "name": "Open Source Scheduler",
+                "url": "github.com/elijahbrown/scheduler"
+            },
+            {
+                "name": "API Rate Limiter",
+                "url": "github.com/elijahbrown/rate-limiter"
+            }
+        ]
+    },
+    "5": {
+        "ID": 5,
+        "name": "Arnold Woods",
+        "contact": "arnow@email.com, (123) 456-7890",
+        "address": "Brooklyn, NY",
+        "education": {
+            "institution": "University of Pittsburgh",
+            "degree": "B.S. Computer Science",
+            "years": "September 2008 - April 2012"
+        },
+        "total_experience": 10,
+        "experience": [
+            {
+                "company": "FanDuel",
+                "job_title": "Senior DevOps Engineer",
+                "description": "Worked with 50+ internal stakeholders, engineers, data scientists, cloud platform engineers, and other technologists across the business managed development of a robust cloud platform sitting on AWS architecture shared best practices and guided 15+ engineers while implementing infrastructure as code, using CloudFormation and Terraform collaborated with 3 engineering teams to help with AWS role management and provisioning AWS resources managed 100% of existing AWS cloud environments, automation, monitoring metrics, disaster recovery/backups, and capacity planning ensured 100% of all project documentation was created and updated, including design, development, and deployment documentation",
+                "work_duration": "July 2019 - Current",
+                "total_years": 4
+            },
+            {
+                "company": "SiteRx",
+                "job_title": "Senior DevOps Engineer",
+                "description": "Managed the transition between project planning and software deployment for 8 teams of 10 developers owned and operated 100% of all configuration and release management governance collaborated with 20+ architects, senior engineers, and the engineering manager to define release management processes spearheaded 100% of code repositories in GitHub and set up automated CI/CD pipeline for all product lines defined branching strategy, permissions, and access management for 10+ engineering teams mentored 30+ junior software engineers in gaining experience and assuming DevOps responsibilities",
+                "work_duration": "January 2015 - July 2019",
+                "total_years": 4
+            }
+        ],
+        "skills": [
+            "Azure",
+            "AWS",
+            "Git",
+            "Jenkins",
+            "Python",
+            "Java",
+            "Kubernetes",
+            "Terraform",
+            "Ansible",
+            "Docker"
+        ],
+        "summary": "DevOps engineer with 10 years of experience managing infrastructure for applications with millions of users. I have helped save over $1.75m by reducing infrastructure costs while improving performance. I am looking to apply that same drive at a successful company like Google.",
+        "projects": []
+    },
+    "6": {
+        "ID": 6,
+        "name": "Andrew Scott",
+        "contact": "resumekraft.com, 202-555-0120, linkedin.com/resumekraft",
+        "address": "Chicago, Illinois, US",
+        "education": [
+            {
+                "institution": "San Jose State University",
+                "degree": "Masters of Computer Science",
+                "years": "Jun 2014 - Aug 2016"
+            },
+            {
+                "institution": "Northeastern University",
+                "degree": "Bachelors in Computers",
+                "years": "Jun 2007 - Mar 2010"
+            }
+        ],
+        "total_experience": 8,
+        "experience": [
+            {
+                "company": "Infosys Technologies",
+                "job_title": "Senior DevOps Engineer",
+                "description": "Actively participate in the software development cycle including the development of high-quality and stable software based on customer, business, and technical requirements. Engage with the development team in a collaborative manner to ensure that the software development process is smooth and efficient. Provide DevOps support to the development team and ensure that the software development infrastructure is reliable and scalable. Automate the software development process and monitor the performance of the software development infrastructure. Ensure that the software development process is compliant with the company\u2019s DevOps standards. Keep abreast of the latest DevOps trends and best practices and share this knowledge with the development team.",
+                "work_duration": "2015 - 2019",
+                "total_years": 4
+            },
+            {
+                "company": "Delta Technologies",
+                "job_title": "DevOps Engineer",
+                "description": "Design, implement, and maintain the tools and processes necessary to deliver high-quality software products work with development, QA, and operations teams to ensure smooth and efficient software delivery automate build, deployment, and testing processes monitor system performance and identify potential issues research and recommend new technologies and approaches to improve the efficiency of the software development and delivery process",
+                "work_duration": "2012-2015",
+                "total_years": 3
+            }
+        ],
+        "skills": [
+            "AWS",
+            "Kubernetes",
+            "Docker",
+            "Helm",
+            "EFK",
+            "Prometheus",
+            "Jenkins",
+            "Maven",
+            "Ansible",
+            "Git"
+        ],
+        "summary": "A result-oriented accomplished certified AWS senior DevOps engineer with total 8+ years of work experience in MNC\u2019s like Infosys, Cognizent and Accenture. Hands-on knowledge on AWS, Linux and DevOps. Designing, implementing and supporting fully automated continuous integration (CI) and continuous delivery (CD) processes. Checking out source code from version control systems like Git Hub, knowledge with cloning, pushing the code based on the requirement. Involved in branching, tagging and merging of code delivery at required releases. Building the source code using the build tool, ant or maven by writing build.xml and pom.xml respectively. Providing infrastructure support & integrating multiple tools with continuous integration tool like ansible & Jenkins respectively. Writing (playbooks and roles) to automate infrastructure using Ansible. Integrating unit tests, code quality analysis, code coverage using tools like junit, sonarqube. Integrating with repository managers like nexus to upload the artifacts. Using docker for successful setup of dev & test environment for developers and testers by using docker build & compose.",
+        "projects": []
+    },
+    "7": {
+        "ID": 7,
+        "name": "Nadia Delgado",
+        "contact": "n.delgado@email.com, (123) 456-7890",
+        "address": "Detroit, MI",
+        "education": {
+            "institution": "University of Michigan",
+            "degree": "B.S., Computer Science",
+            "years": "September 2011 - June 2015"
+        },
+        "total_experience": 5,
+        "experience": [
+            {
+                "company": "Deloitte",
+                "job_title": "Java Developer",
+                "description": "Designed software solutions by analyzing system performance standards, increasing performance efficiency by 27%. Planned, tracked, and managed 100+ deliverables on short-term sprints and long-term software deployments. Developed and executed 300+ test procedures for software components.",
+                "work_duration": "May 2018 - Current",
+                "total_years": 5
+            },
+            {
+                "company": "Perficient",
+                "job_title": "Junior Java Developer",
+                "description": "Designed and coded 60+ unit/integration testing using Perficient methodology. Utilized strong configuration management and version control to ensure peak system performance throughout 20+ changes. Created 70+ detailed design documentation, unit test plans, and well-documented code used by 12-week summer intern program.",
+                "work_duration": "January 2016 - April 2018",
+                "total_years": 2
+            },
+            {
+                "company": "Arup",
+                "job_title": "Software Developer Intern",
+                "description": "Collaborated with 15+ experts across a range of domains to identify and study data sets to produce visuals and other tools. Worked with R&D team to identify critical, emerging technologies, and performed strategic research.",
+                "work_duration": "June 2015 - January 2016",
+                "total_years": 0.5
+            }
+        ],
+        "skills": [
+            "Java",
+            "Javascript",
+            "Angular.js",
+            "HTML",
+            "CSS",
+            "Unix",
+            "SQL",
+            "Eclipse",
+            "Oracle",
+            "React.js"
+        ],
+        "summary": null,
+        "projects": []
+    },
+    "8": {
+        "ID": 8,
+        "name": "Kennedy Klekamp",
+        "contact": "kennedy.klekamp@gmail.com, (254) 103-9272",
+        "address": "123 Aspen Lane, Boulder, CO 80301",
+        "education": {
+            "institution": "University of Colorado Boulder",
+            "degree": "Bachelor of Science in Software Engineering with a focus on Python development",
+            "years": "Aug 2017 - May 2022"
+        },
+        "total_experience": 1,
+        "experience": [
+            {
+                "company": "Inceed, Co",
+                "job_title": "Senior Python Developer",
+                "description": "Developed an optimized Python-based application for a major client, resulting in a 30% increase in efficiency and a 25% reduction in processing time. Implemented an automated testing framework that reduced code review time by 40% and increased overall code quality, leading to a 15% reduction in reported bugs. Spearheaded the migration of a legacy system to a modern Python-based platform, which improved system performance by 50% and decreased maintenance costs by 20%. Mentored a team of junior developers, leading to a 100% retention rate and a 35% increase in team productivity within six months.",
+                "work_duration": "Mar 2023 - Present",
+                "total_years": 0
+            },
+            {
+                "company": "Techtonic Group, Co",
+                "job_title": "Junior Python Developer",
+                "description": "Developed an efficient data processing pipeline for a major client, resulting in a 50% reduction in processing time and a 30% improvement in data accuracy. Implemented an automated testing framework for critical applications, leading to a significant decrease in software defects by 40% and a 25% faster release cycle. Optimized and refactored legacy codebase, enhancing overall performance by 35% and reducing maintenance costs by 20% for the company.",
+                "work_duration": "Aug 2022 - Jan 2023",
+                "total_years": 0.5
+            }
+        ],
+        "skills": [
+            "Django",
+            "Flask",
+            "NumPy",
+            "Pandas",
+            "TensorFlow",
+            "SQLAlchemy",
+            "Jupyter"
+        ],
+        "summary": "Python developer with 1 year of experience in designing, developing, and implementing software solutions using Python programming language. Proficient in creating web applications, integrating APIs, and leveraging data analysis libraries. Adept at working in agile environments, collaborating with cross-functional teams, and adapting to new technologies. Highly skilled in problem-solving, critical thinking, and time management. Committed to delivering high-quality, efficient, and scalable software solutions for diverse industry needs.",
+        "projects": []
+    }
+}

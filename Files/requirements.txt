@@ -1,0 +1,28 @@
+# PDF Processing
+pdf2image
+pytesseract
+PyPDF2
+
+# Text Processing
+nltk
+
+# AI and Machine Learning
+google-generativeai
+sentence-transformers
+langchain
+langchain-google-genai
+
+# Database
+elasticsearch
+
+# FastAPI and Server
+fastapi
+uvicorn
+python-multipart
+pydantic
+
+# Numerical Processing
+numpy
+
+# Other Dependencies
+python-dotenv
