@@ -1,7 +1,7 @@
 # Smart CV Extractor
 
 ## Project Architecture
-![Smart CV Extractor Architecture](architecture.png)
+![Smart CV Extractor Architecture](Smart Cv Extractor_page-0001.jpg)
 
 ## Overview
 Smart CV Extractor is an intelligent resume parsing and analysis system that leverages AI to extract, process, and analyze resume data. The system uses Google's Gemini 1.5 Flash model for text processing, Elasticsearch for data storage and retrieval, and provides both traditional and vector-based semantic search capabilities.
